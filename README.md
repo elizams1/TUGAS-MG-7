@@ -8,7 +8,7 @@ Aplikasi ini mampu melakukan scan atau pemindaian pada qr code atau barcode. Set
 Pada aplikasi ini menggunakan bantuan `expo-barcode-scanner` yang componen nya berguna menjadi sebuah barcode scanner. Selain itu menggunakan `expo-av` yang componen audionya berguna untuk menampilkan atau memutar musik atau suara yang telah dideklarasikan di dalam program.
 
 ## Cara Menginstall Aplikasi
-1. Mendownload file apk pada link berikut
+1. Mendownload file apk pada link berikut https://drive.google.com/drive/folders/1xEiCLlzrl4037tNB36vkwhH6kcy847Rh?usp=sharing
 2. Menginstallnya pada device masing-masing
 
 
